@@ -1,4 +1,10 @@
-BISSECÇÃO E INTERPOLAÇÃO POR SISTEMA LINEAR - GRUPO 1
+# Bi
+
+---
+
+# BISSECÇÃO E INTERPOLAÇÃO POR SISTEMA LINEAR - EC2
+
+Projeto de conclusão de Cálculo numérico EC2
 
 Lucas Alves Silva RA: 081200031
 Luiza Leal RA: 081200036
