@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FA4F0153-7475-4224-B61A-C0D90AC89DDF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Trabalho_do_Marcio</RootNamespace>
+    <AssemblyName>Trabalho do Marcio</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MathParser.org-mXparser, Version=4.4.2.0, Culture=neutral, PublicKeyToken=0fbab7add73ed6e2, processorArchitecture=MSIL">
+      <HintPath>..\packages\MathParser.org-mXparser.4.4.2\lib\net472\MathParser.org-mXparser.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frBisseccao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frBisseccao.Designer.cs">
+      <DependentUpon>frBisseccao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frInicio.Designer.cs">
+      <DependentUpon>frInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frInterpolacaoSI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frInterpolacaoSI.Designer.cs">
+      <DependentUpon>frInterpolacaoSI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frSobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frSobre.Designer.cs">
+      <DependentUpon>frSobre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frTutorialBisseccao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frTutorialBisseccao.Designer.cs">
+      <DependentUpon>frTutorialBisseccao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frTutorialInterpolacaoSI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frTutorialInterpolacaoSI.Designer.cs">
+      <DependentUpon>frTutorialInterpolacaoSI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funcao.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frBisseccao.resx">
+      <DependentUpon>frBisseccao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frInicio.resx">
+      <DependentUpon>frInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frInterpolacaoSI.resx">
+      <DependentUpon>frInterpolacaoSI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frSobre.resx">
+      <DependentUpon>frSobre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frTutorialBisseccao.resx">
+      <DependentUpon>frTutorialBisseccao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frTutorialInterpolacaoSI.resx">
+      <DependentUpon>frTutorialInterpolacaoSI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bissecção slide-01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bissecção slide-02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bissecção slide-03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bissecção slide-04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bissecção slide-05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bissecção slide-06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bissecção slide-07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bissecção slide-08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bissecção slide-09.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bissecção slide-10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bissecção slide-11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bissecção slide-12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bissecção slide-13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bissecção slide-14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bissecção slide-15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bissecção slide-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bissecção slide-17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bissecção slide-18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bissecção slide-19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bissecção slide-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bissecção slide-21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bissecção slide-22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bissecção slide-23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bissecção slide-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -09.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interpolação -33.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,59 @@
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio\Trabalho do Marcio\Trabalho do Marcio\bin\Debug\Trabalho do Marcio.exe.config
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio\Trabalho do Marcio\Trabalho do Marcio\bin\Debug\Trabalho do Marcio.exe
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio\Trabalho do Marcio\Trabalho do Marcio\bin\Debug\Trabalho do Marcio.pdb
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho do Marcio.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho_do_Marcio.frInicio.resources
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho_do_Marcio.frInterpolacaoSI.resources
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho_do_Marcio.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho do Marcio.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho do Marcio.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho do Marcio.exe
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho do Marcio.pdb
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho_do_Marcio.frBisseccao.resources
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio\Trabalho do Marcio\Trabalho do Marcio\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho do Marcio.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marciov0.5\Trabalho do Marcio\Trabalho do Marcio\bin\Debug\Trabalho do Marcio.exe.config
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marciov0.5\Trabalho do Marcio\Trabalho do Marcio\bin\Debug\Trabalho do Marcio.exe
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marciov0.5\Trabalho do Marcio\Trabalho do Marcio\bin\Debug\Trabalho do Marcio.pdb
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marciov0.5\Trabalho do Marcio\Trabalho do Marcio\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marciov0.5\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho do Marcio.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marciov0.5\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho_do_Marcio.frBisseccao.resources
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marciov0.5\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho_do_Marcio.frInicio.resources
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marciov0.5\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho_do_Marcio.frInterpolacaoSI.resources
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marciov0.5\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho_do_Marcio.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marciov0.5\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho do Marcio.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marciov0.5\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho do Marcio.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marciov0.5\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho do Marcio.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marciov0.5\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho do Marcio.exe
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marciov0.5\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho do Marcio.pdb
+\\Mac\Home\Downloads\Trabalho do Marcio\Trabalho do Marcio\bin\Debug\Trabalho do Marcio.exe.config
+\\Mac\Home\Downloads\Trabalho do Marcio\Trabalho do Marcio\bin\Debug\Trabalho do Marcio.exe
+\\Mac\Home\Downloads\Trabalho do Marcio\Trabalho do Marcio\bin\Debug\Trabalho do Marcio.pdb
+\\Mac\Home\Downloads\Trabalho do Marcio\Trabalho do Marcio\bin\Debug\MathParser.org-mXparser.dll
+\\Mac\Home\Downloads\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho do Marcio.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho_do_Marcio.frBisseccao.resources
+\\Mac\Home\Downloads\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho_do_Marcio.frInicio.resources
+\\Mac\Home\Downloads\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho_do_Marcio.frInterpolacaoSI.resources
+\\Mac\Home\Downloads\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho_do_Marcio.Properties.Resources.resources
+\\Mac\Home\Downloads\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho do Marcio.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho do Marcio.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho do Marcio.csproj.CopyComplete
+\\Mac\Home\Downloads\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho do Marcio.exe
+\\Mac\Home\Downloads\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho do Marcio.pdb
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio 0.65\Trabalho do Marcio\Trabalho do Marcio\bin\Debug\Trabalho do Marcio.exe.config
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio 0.65\Trabalho do Marcio\Trabalho do Marcio\bin\Debug\Trabalho do Marcio.exe
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio 0.65\Trabalho do Marcio\Trabalho do Marcio\bin\Debug\Trabalho do Marcio.pdb
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio 0.65\Trabalho do Marcio\Trabalho do Marcio\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio 0.65\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho do Marcio.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio 0.65\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho_do_Marcio.frBisseccao.resources
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio 0.65\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho_do_Marcio.frInicio.resources
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio 0.65\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho_do_Marcio.frInterpolacaoSI.resources
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio 0.65\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho_do_Marcio.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio 0.65\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho do Marcio.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio 0.65\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho do Marcio.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio 0.65\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho do Marcio.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio 0.65\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho do Marcio.exe
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio 0.65\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho do Marcio.pdb
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio 0.65\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho_do_Marcio.frSobre.resources
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio 0.65\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho_do_Marcio.frTutorialBisseccao.resources
+C:\Users\vitor\OneDrive\Documentos\Trabalho do Marcio 0.65\Trabalho do Marcio\Trabalho do Marcio\obj\Debug\Trabalho_do_Marcio.frTutorialInterpolacaoSI.resources
